@@ -131,7 +131,7 @@ if(isset($_POST['submit'])) {
 
 <label for="fname">Publication</label>
 
-<input type="text" id="publication"  name="publication"maxlength="80">
+<input type="text" id="publication"  name="publication" placeholder="Publication" maxlength="80">
 <input type="submit" value="Insert Book" name="submit">
 
 </form>
