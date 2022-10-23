@@ -69,14 +69,9 @@ return output;
             <table border="0" cellpadding="10" cellspacing="0"
                 width="500" align="center" class="tblSaveForm">
                 <tr class="tableheader">
-                    <td colspan="2">Change Password</td>
+                    <td colspan="2">New Password</td>
                 </tr>
-                <tr>
-                    <td width="40%"><label>Current Password</label></td>
-                    <td width="60%"><input type="password"
-                        name="currentPassword" class="txtField" /><span
-                        id="currentPassword" class="required"></span></td>
-                </tr>
+                
                 <tr>
                     <td><label>New Password</label></td>
                     <td><input type="password" name="newPassword"
