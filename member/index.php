@@ -46,7 +46,7 @@
         <input type="password" class="login-input" name="password" placeholder="Password"/>
     </div>
         <input type="submit" value="Login" name="submit" class="login-button"/>
-        
+        <p ><a href="../forgotpassword.php" style="text-decoration:none; color:red;">Forgot Password!</a>
         <p align="center">Don't have an account?&nbsp;<a href="registration.php" style="text-decoration:none; color:red;">Register Now!</a>
 
 			<p align="center"><a href="../index.php" style="text-decoration:none;">Go Back</a>
